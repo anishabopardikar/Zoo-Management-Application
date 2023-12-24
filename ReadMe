@@ -1,0 +1,27 @@
+This program consists the following classes: Main,Admin,Discount,Mammal,Amphibian,Reptile,Attraction.
+it also consists of an interface : Animal which is extended by Mammal,Amphibian,Reptile.
+Abstract class:Attraction_Abstract which is extended by Attraction.
+The program is about a zoo which has 3 types of animals: Mammal,Amphibian,Reptile.
+The program has 2 types of users: Admin and Visitor.
+The  Admin and Visitor have their respective functions and privileges given in the menu of the program..
+Object class has been implemented in the program.(Ex: Using Equals method in the program)
+The program has been implemented using the concept of inheritance,abstraction,encapsulation,polymorphism,interfaces,abstract classes,object class.
+The program has been implemented using the concept of exception handling.
+Admin:
+this class consists of many methods formed to perform the functions of the admin.
+The admin can add,delete,update,search,display the animals in the zoo.
+
+Visitor:
+this class consists of many methods formed to perform the functions of the visitor.
+The visitor can view the animals,attractions ,discounts,special deals,etc in the zoo.
+
+
+Mammal,Amphibian,Reptile:
+these classes extend the Animal interface.
+
+Attraction_Abstract:
+this class is an abstract class which is extended by the Attraction class.
+this class consists of many methods formed to perform the functions of the attraction.
+
+
+
