@@ -59,6 +59,6 @@ Visit Attractions/Visit Event: Visitors can access attractions based on their ex
 
 Provide Feedback: Visitors can leave feedback about their zoo experience and suggest improvements.
 
-Running the Application :
+Running the Application Output :
 ![image](https://github.com/anishabopardikar/Zoo-Management-Application/assets/133586896/934927e9-cd4f-4de3-b300-0778093d02cd)
 
